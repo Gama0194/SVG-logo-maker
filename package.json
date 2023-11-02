@@ -1,0 +1,25 @@
+{
+    "name": "10-logo-svg",
+    "version": "1.0.0",
+    "description": "site",
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "library": "library"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "type": "module",
+    "author": "Ricardo",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.7.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.23.2",
+        "@babel/preset-env": "^7.23.2",
+        "babel-jest": "^29.7.0"
+    }
+}
